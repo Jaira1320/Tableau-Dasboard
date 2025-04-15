@@ -29,3 +29,5 @@ Dasboard Image
 <img width="1440" alt="S2" src="https://github.com/user-attachments/assets/6fbeb35f-19c4-4505-a184-49ebf13e1262" />
 
 <img width="1440" alt="S3" src="https://github.com/user-attachments/assets/b916e3f5-a712-468a-b19c-b1d3d8659ef5" />
+
+Link for The Tableu-Public : https://public.tableau.com/views/SalesCustomerDashboards_17447131525650/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
