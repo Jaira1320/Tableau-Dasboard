@@ -23,4 +23,9 @@ Sales & Customer Insights
 
 
 Dasboard Image 
+
 <img width="1440" alt="S1" src="https://github.com/user-attachments/assets/90b1cf6b-532d-4dbc-bf7a-4e3fc439ee5d" />
+
+<img width="1440" alt="S2" src="https://github.com/user-attachments/assets/6fbeb35f-19c4-4505-a184-49ebf13e1262" />
+
+<img width="1440" alt="S3" src="https://github.com/user-attachments/assets/b916e3f5-a712-468a-b19c-b1d3d8659ef5" />
