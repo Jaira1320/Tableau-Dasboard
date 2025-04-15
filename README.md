@@ -20,3 +20,7 @@ Data Cleaning & Joins
 Dashboard Design
 Visual Analytics
 Sales & Customer Insights
+
+
+Dasboard Image 
+<img width="1440" alt="S1" src="https://github.com/user-attachments/assets/90b1cf6b-532d-4dbc-bf7a-4e3fc439ee5d" />
